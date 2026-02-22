@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "shortcut to heaven",
+  "base_artist": "lullaboy",
+  "createdAt": "2026-02-22T18:56:32.888534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shortcut To Heaven",
+      "artist": "lullaboy",
+      "has_synced": false,
+      "path": "select/01_Shortcut_To_Heaven_lullaboy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Absurda Cenicienta (Shortcut To Heaven)",
+      "artist": "Chenoa",
+      "has_synced": true,
+      "path": "select/02_Absurda_Cenicienta_(Shortcut_To_Heaven)_Chenoa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Shortcut to Heaven (feat. Obrafour)",
+      "artist": "M.anifest",
+      "has_synced": true,
+      "path": "select/03_No_Shortcut_to_Heaven_(feat._Obrafour)_M.anifest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Shortcut to Heaven",
+      "artist": "M.anifest",
+      "has_synced": true,
+      "path": "select/04_No_Shortcut_to_Heaven_M.anifest.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "shortcut to heaven",
+      "artist": "lullaboy",
+      "has_synced": true,
+      "path": "select/05_shortcut_to_heaven_lullaboy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Absurda Cenicienta (Shortcut To Heaven)",
+      "artist": "Chenoa",
+      "has_synced": true,
+      "path": "select/06_Absurda_Cenicienta_(Shortcut_To_Heaven)_Chenoa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Absurda Cenicienta (Shortcut To Heaven) (Album Version)",
+      "artist": "Chenoa",
+      "has_synced": false,
+      "path": "select/07_Absurda_Cenicienta_(Shortcut_To_Heaven)_(Album_Version)_Chenoa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Absurda Cenicienta (Shortcut To Heaven) (Album Version)",
+      "artist": "Chenoa",
+      "has_synced": true,
+      "path": "select/08_Absurda_Cenicienta_(Shortcut_To_Heaven)_(Album_Version)_Chenoa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shortcut to hell",
+      "artist": "Six Feet Under",
+      "has_synced": true,
+      "path": "select/09_Shortcut_to_hell_Six_Feet_Under.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shortcut to Moncton",
+      "artist": "I Mother Earth",
+      "has_synced": true,
+      "path": "select/10_Shortcut_to_Moncton_I_Mother_Earth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shortcut To Salvation",
+      "artist": "The Neal Morse Band",
+      "has_synced": true,
+      "path": "select/11_Shortcut_To_Salvation_The_Neal_Morse_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shortcut to Moncton",
+      "artist": "I Mother Earth",
+      "has_synced": false,
+      "path": "select/12_Shortcut_to_Moncton_I_Mother_Earth.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shortcut to Waco",
+      "artist": "Nate Fredrick",
+      "has_synced": false,
+      "path": "select/13_Shortcut_to_Waco_Nate_Fredrick.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shortcut to Somewhere",
+      "artist": "Tony Banks",
+      "has_synced": true,
+      "path": "select/14_Shortcut_to_Somewhere_Tony_Banks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shortcut to Monclon",
+      "artist": "I Mother Earth",
+      "has_synced": true,
+      "path": "select/15_Shortcut_to_Monclon_I_Mother_Earth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shortcut To Extinction",
+      "artist": "Nasum",
+      "has_synced": true,
+      "path": "select/16_Shortcut_To_Extinction_Nasum.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shortcut To Moneton",
+      "artist": "I Mother Earth",
+      "has_synced": true,
+      "path": "select/17_Shortcut_To_Moneton_I_Mother_Earth.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shortcut to Salvation",
+      "artist": "Neal Morse Band",
+      "has_synced": true,
+      "path": "select/18_Shortcut_to_Salvation_Neal_Morse_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shortcut To Heaven",
+      "artist": "lullaboy",
+      "has_synced": false,
+      "path": "select/pl_01_Shortcut_To_Heaven_lullaboy.txt"
+    }
+  ]
+}
