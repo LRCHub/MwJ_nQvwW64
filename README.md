@@ -1,0 +1,45 @@
+# lullaboy – shortcut to heaven
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.45] Then in my dream
+[00:17.06] I saw two men appear
+[00:20.73] They didn't take the long way
+[00:24.48] Instead they jumped the wall
+[00:30.34] They stood in the way
+[00:33.29] The journey man was on
+[00:36.72] Accused him and confused him
+[00:40.64] About the Glory Road
+[00:47.98] They said you can take it easy
+[00:53.35] This life is not so hard
+[00:56.63] Why don't you come join us in our merry band?
+[01:03.53] There's a shortcut to salvation
+[01:07.28] Cruise down the boulevard
+[01:11.25] Where decadence and destiny go hand-in-hand
+[01:18.85] Then I was there
+[01:21.57] I saw him up the road
+[01:25.52] Whistlin' down the long way
+[01:29.01] He knew he had to go... and they said
+[01:34.41] You can take it easy
+[01:38.54] This life is not so hard
+[01:42.16] Why don't you come join us in our merry band?
+[01:48.82] There's a shortcut to salvation
+[01:52.92] Cruise down the boulevard
+[01:56.43] Where decadence and destiny go hand-in-hand
+[02:36.21] You should take it easy
+[02:39.97] Life is not so hard
+[02:43.42] Why don't you come join us in our merry band?
+[02:50.63] There's a shortcut to salvation
+[02:53.83] Cruise down the boulevard
+[02:57.78] Where decadence and destiny go hand-in-hand
+[03:08.15] But I have seen the place called home
+[03:15.39] And now my life is not my own
+[03:22.44] For I was bought with the highest price
+[03:29.39] What can I do but give my life?
+[03:36.47] For I have seen the place called home
+[03:43.58] And now my life is not my own
+[03:50.58] I hear the call to Kingdom Ground
+[03:57.70] And all I am I lay it down for you
+[04:09.93] I lay it down for you
+```
